@@ -1,4 +1,12 @@
-//ontime
-1.Create an account Heroku
-2.install Heroku
-3.heroku login
+// ontime
+// 1.Create an account Heroku
+// 2.install Heroku
+// 3.heroku login
+
+//onetime for each project
+/* 
+1.heroku create
+2.make sure your git commit and push (updated)
+3.git push heroku main
+
+*/
