@@ -17,3 +17,9 @@
 2.make sure your git commit and push (updated)
 3.git push heroku main
 */
+/*connect server with client and deploy heroku link
+1.replace localhsot to heroku server(link change)
+2.npm run build client side
+3.firebase deploy
+
+*/
